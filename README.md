@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Creating bugs since** 2019
+- 🔭 **Creating bugs since** 2016
 - 📚 **Currently learning** Rust and AI (RAG + Vector Search)
 - 🎯 **Goals** Architecting high-performance distributed systems
 - ⚡ **Philosophy** Write code that scales, optimize code that doesn't
