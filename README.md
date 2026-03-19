@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 **Engineering solutions since** 2016
-- 📚 **Currently learning** Rust and AI (RAG + Vector Search)
+- 📚 **Currently learning** Rust
 - 🎯 **Goals** Architecting high-performance distributed systems
 - ⚡ **Philosophy** Write code that scales, optimize code that doesn't
 
@@ -34,6 +34,8 @@
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-4a4a4a?style=for-the-badge&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -42,6 +44,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5143?style=for-the-badge&logo=meilisearch&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -90,8 +94,8 @@
 <td width="50%">
 
 ### 🤖 AI Integration
-- Implementing **Vector Search** engines
-- **RAG** (Retrieval Augmented Generation) systems
+- Implementing **Meilisearch** & **Algolia**
+- **Vector Search** & **RAG** systems
 - LLM-based data retrieval and processing
 - Building intelligent search systems
 
